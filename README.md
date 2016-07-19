@@ -1,19 +1,30 @@
 # noParksAfterDark
 
-notes about tech used
+A routing app which routes round areas deemed unsafe at night (e.g. alleyways, parks etc.).
+[Backend](https://github.com/macebake/noParksAfterDarkBackend)
 
-Node with Express framework
-100% Javascript
-EAN Stack
+# Technology Used
 
-Ionic
-Mostly new technologies
+Frontend: JavaScript, AngularJs, Cordova Geolocator, Ionic, Here Maps Javascript API, Google Places API
+Backend: Node.js, Express, Heroku, Here Maps REST API.
+Testing: Jasmine, Karma, Protractor, Mocha, Chai, Supertest
 
-Heroku
+# Installation
 
-Completely decoupled front and back end
+`git clone git@github.com:llcclarke/noParksAfterDark.git`
 
-REST API
-Javascript API
+`npm install`
 
-cordova-plugin-geolocation API
+`npm install -g cordova ionic`
+
+# Usage
+
+`ionic serve`
+
+Navigate to `http://localhost:8100/`
+
+# Created By
+- [Lucy](https://github.com/llcclarke)
+- [Maggie](https://github.com/pixelandpage)
+- [Macey](https://github.com/macebake)
+- [Ruta](https://github.com/Melodija)
