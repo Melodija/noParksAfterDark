@@ -3,13 +3,15 @@
 A routing app which routes round areas deemed unsafe at night (e.g. alleyways, parks etc.).
 [Backend](https://github.com/macebake/noParksAfterDarkBackend)
 
-# Technology Used
+## Technology Used
 
-Frontend: JavaScript, AngularJs, Cordova Geolocator, Ionic, Here Maps Javascript API, Google Places API
-Backend: Node.js, Express, Heroku, Here Maps REST API.
-Testing: Jasmine, Karma, Protractor, Mocha, Chai, Supertest
+**Frontend:** JavaScript, AngularJs, Cordova Geolocator, Ionic, Here Maps Javascript API, Google Places API
 
-# Installation
+**Backend:** Node.js, Express, Heroku, Here Maps REST API.
+
+**Testing:** Jasmine, Karma, Protractor, Mocha, Chai, Supertest
+
+## Installation
 
 `git clone git@github.com:llcclarke/noParksAfterDark.git`
 
@@ -17,13 +19,13 @@ Testing: Jasmine, Karma, Protractor, Mocha, Chai, Supertest
 
 `npm install -g cordova ionic`
 
-# Usage
+## Usage
 
 `ionic serve`
 
 Navigate to `http://localhost:8100/`
 
-# Created By
+## Created By
 - [Lucy](https://github.com/llcclarke)
 - [Maggie](https://github.com/pixelandpage)
 - [Macey](https://github.com/macebake)
